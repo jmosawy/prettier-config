@@ -1,0 +1,35 @@
+{
+  "name": "@jmosawy/prettier-config",
+  "version": "1.0.0",
+  "description": "An opinionated and re-usable Prettier config file created by Jeff Mosawy",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmosawy/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "jmosawy"
+  ],
+  "author": {
+    "name": "Jeff Mosawy",
+    "email": "me@jmosawy.com",
+    "url": "https://jmosawy.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmosawy/prettier-config/issues"
+  },
+  "homepage": "https://github.com/jmosawy/prettier-config#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "conventional-changelog-conventionalcommits": "^4.5.0",
+    "prettier": "^2.2.1",
+    "semantic-release": "^17.4.2"
+  },
+  "peerDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
