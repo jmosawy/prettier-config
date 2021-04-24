@@ -1,5 +1,12 @@
 CHANGELOG
 
+### [1.0.3](https://github.com/jmosawy/prettier-config/compare/v1.0.2...v1.0.3) (2021-04-24)
+
+
+### Bug Fixes
+
+* update outdated badge in readme file ([#8](https://github.com/jmosawy/prettier-config/issues/8)) ([99a8bf6](https://github.com/jmosawy/prettier-config/commit/99a8bf63c32df66c036d3c5f807560fd471adb18)), closes [#6](https://github.com/jmosawy/prettier-config/issues/6)
+
 ### [1.0.2](https://github.com/jmosawy/prettier-config/compare/v1.0.1...v1.0.2) (2021-04-24)
 
 
