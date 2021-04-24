@@ -1,4 +1,4 @@
-CHANGELOG
+# CHANGELOG
 
 ### [1.0.3](https://github.com/jmosawy/prettier-config/compare/v1.0.2...v1.0.3) (2021-04-24)
 
