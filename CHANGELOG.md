@@ -1,5 +1,12 @@
 CHANGELOG
 
+### [1.0.2](https://github.com/jmosawy/prettier-config/compare/v1.0.1...v1.0.2) (2021-04-24)
+
+
+### Bug Fixes
+
+* update package.json version automatically ([1e0f450](https://github.com/jmosawy/prettier-config/commit/1e0f45094781646385cdc3b4bf5a792952199ebd)), closes [#4](https://github.com/jmosawy/prettier-config/issues/4)
+
 ### [1.0.1](https://github.com/jmosawy/prettier-config/compare/v1.0.0...v1.0.1) (2021-04-24)
 
 
