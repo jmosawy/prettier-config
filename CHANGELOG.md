@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.1.0](https://github.com/jmosawy/prettier-config/compare/v1.0.3...v1.1.0) (2021-04-30)
+
+
+### Features
+
+* release latest doc to npm ([#18](https://github.com/jmosawy/prettier-config/issues/18)) ([e8186cc](https://github.com/jmosawy/prettier-config/commit/e8186cc23070b47333fe69b25400c58bc48b5ad0))
+
 ### [1.0.3](https://github.com/jmosawy/prettier-config/compare/v1.0.2...v1.0.3) (2021-04-24)
 
 
