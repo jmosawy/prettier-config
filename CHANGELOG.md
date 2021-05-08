@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.2.0](https://github.com/jmosawy/prettier-config/compare/v1.1.0...v1.2.0) (2021-05-08)
+
+
+### Features
+
+* use `@jmosawy/semanntic-release-config` ([#20](https://github.com/jmosawy/prettier-config/issues/20)) ([ed35a61](https://github.com/jmosawy/prettier-config/commit/ed35a615e1c199a9b97eec734aa030cfa7527514)), closes [#19](https://github.com/jmosawy/prettier-config/issues/19)
+
 ## [1.1.0](https://github.com/jmosawy/prettier-config/compare/v1.0.3...v1.1.0) (2021-04-30)
 
 
