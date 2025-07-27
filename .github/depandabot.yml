@@ -1,0 +1,29 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "18:00"
+      timezone: "Europe/Berlin"
+    allow:
+      - dependency-type: "direct"
+    assignees:
+      - "jmosawy"
+    commit-message:
+      prefix: "build(deps)"
+    open-pull-requests-limit: 5
+    target-branch: "main"
+    versioning-strategy: "auto"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    assignees:
+      - "jmosawy"
+    schedule:
+      interval: "weekly"
+      time: "09:00"
+      timezone: "Europe/Berlin"
+      day: "monday"
+    commit-message:
+      prefix: "ci(deps)"
+    target-branch: "main"
