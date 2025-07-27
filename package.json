@@ -1,6 +1,6 @@
 {
   "name": "@jmosawy/prettier-config",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "An opinionated and re-usable Prettier config file created by Jeff Mosawy",
   "main": ".prettierrc.js",
   "repository": {
